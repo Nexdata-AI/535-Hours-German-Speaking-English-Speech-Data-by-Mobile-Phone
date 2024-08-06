@@ -4,7 +4,7 @@
 ## Description
 1162 native German speakers recorded with authentic accent. The recorded script is designed by linguists and covers a wide domain of topics including generic command and control category; human-machine interaction category; smart home command and control category; in-car command and control category. The text is manually proofread to ensure high accuracy. It matches with main Android system phones and iPhone. The data set can be applied for automatic speech recognition, voiceprint recognition model training, construction of corpus for machine translation and algorithm research.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/987?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/987?source=Github
 
 
 ## Format
